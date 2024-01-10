@@ -9,5 +9,5 @@ export default {
       colors: require('./src/shared/utils/colors').COLORS 
     },
   },
-  plugins: ['prettier-plugin-tailwindcss'],
+  plugins: [],
 }
